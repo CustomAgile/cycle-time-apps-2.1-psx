@@ -1,0 +1,32 @@
+.app {
+}
+.tsinfolink {
+    position:absolute;
+    right:0px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    text-align: center;
+    color: white;
+    background: #C0C0C0;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 25px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.rly-left {
+    width: 75%;
+}
+.rly-right {
+    width: 25%;
+}
+.warning {
+    color:darkred;
+}
+.help-button {
+    color:silver;
+    background-color:white;
+    font-size:14px;
+}
